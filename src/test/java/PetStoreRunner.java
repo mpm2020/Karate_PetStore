@@ -1,6 +1,6 @@
 import com.intuit.karate.junit5.Karate;
 
-public class PetStoreRunner {
+public class PetStoreRunnerTest {
 
     @Karate.Test
     Karate testPetStore() {
